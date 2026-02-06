@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/XjwyxE2h)
 # 🚀 Quiz: Tu Primer Despliegue Personalizado
 
 ¡Bienvenido al reto! El objetivo de este ejercicio es practicar el flujo básico de trabajo con Git y la edición de archivos HTML. Sigue estos pasos para completar el quiz con éxito.
@@ -27,7 +28,8 @@
 
 > **Nota para el alumno:** Para que tu imagen se vea aquí, asegúrate de que el nombre del archivo coincida.
 
-![Captura de mi pantalla](./resultado.png)
+![Resultado](./resultado.png)
+
 
 ---
 
